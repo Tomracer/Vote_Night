@@ -5,5 +5,7 @@ Depencies:
 -Vote https://github.com/rubenwardy/vote
 
 Credits:
-forked from some other guy
-edited by olliy
+
+-forked from some other guy
+
+-edited by olliy
